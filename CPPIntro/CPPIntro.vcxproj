@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CPPIntro.cpp" />
+    <ClCompile Include="M:\Downloads\Source_Files_C++\Source Files\02 Build functions to perform tasks\IntroductiontoCPP\IntroductiontoCPP\IntroductiontoCPP.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

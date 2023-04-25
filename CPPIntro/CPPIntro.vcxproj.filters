@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPPIntro.cpp">
+    <ClCompile Include="M:\Downloads\Source_Files_C++\Source Files\02 Build functions to perform tasks\IntroductiontoCPP\IntroductiontoCPP\IntroductiontoCPP.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
